@@ -26,3 +26,15 @@
 - <b> Projeto Final </b>: Refatoração do projeto utilizando classes. Praticando comGit, ESLint e mais.
 
 - <b> Slide </b>: Criação do plugin de slide.
+
+<h2>📚 Conteúdo </b>
+<h3> 📍 A Linguagem </h3>
+Javascript é uma linguagem de programação <b>interpretada</b>, ou seja, você escreve o seu programa, acessa o seu arquivo no browser e ele vai ser diretamente interpretada. Não precisa ser compilada.
+
+<h4> Aplicações do Javascript </h4>
+
+- <b> Frontend </b>: Manipulação do DOM, comunicação assíncrona com o backend e mais.
+
+- <b> Backend </b>: Comunicação com banco de dados, manipulação de arquivos e mais (node).
+
+- <b> Jogos </b>: Geralmente se aproveitando de benefícios do HTML5.
